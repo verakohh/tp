@@ -9,7 +9,6 @@
 UniVerse is a **desktop app for managing contacts**, optimized for use via a **Command Line Interface (CLI)** while incorporating a **Graphical User Interface (GUI)** for ease of use. UniVerse is designed to help you manage detailed contact information, including academic and professional details, quickly and efficiently.
 
 <!-- * Table of Contents -->
-
 <page-nav-print />
 
 --------------------------------------------------------------------------------------------------------------------

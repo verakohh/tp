@@ -6,7 +6,7 @@
 # UniVerse
 
 [![CI Status](https://github.com/se-edu/addressbook-level3/workflows/Java%20CI/badge.svg)](https://github.com/AY2425S1-CS2103T-T17-1/tp/actions)
-[![codecov](https://codecov.io/gh/se-edu/addressbook-level3/branch/master/graph/badge.svg)](https://codecov.io/gh/se-edu/addressbook-level3)
+[![codecov](https://codecov.io/gh/se-edu/addressbook-level3/branch/master/graph/badge.svg)](https://app.codecov.io/gh/AY2425S1-CS2103T-T17-1/tp)
 
 ![Ui](images/Ui.png)
 
@@ -21,6 +21,8 @@ UniVerse is a **comprehensive platform** tailored for university students to sea
 * **Add Work Experience:** Enhance your contacts by adding their internship or work experience, allowing you to connect with people who have relevant industry experience.
 
 UniVerse provides university students with a **streamlined solution to manage their personal and professional networks**, enabling them to grow both socially and academically in one unified platform.
+* If you are interested in using UniVerse, head over to the [_Quick Start_ section of the **User Guide**](UserGuide.html#quick-start).
+* If you are interested about developing UniVerse, the [**Developer Guide**](DeveloperGuide.html) is a good place to start.
 
 **Acknowledgements**
 
