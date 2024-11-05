@@ -111,9 +111,11 @@
         "features": "Features",
         "viewing-help-help": "Viewing help : help",
         "adding-a-person-add": "Adding a person: add",
+        "adding-work-experience-to-existing-contact-addw": "Adding Work Experience to existing contact: addw",
         "listing-all-persons-list": "Listing all persons : list",
         "editing-a-person-edit": "Editing a person : edit",
         "locating-persons-by-name-find": "Locating persons by name: find",
+        "finding-contacts-by-interest-findi": "Finding Contacts by Interest: findi",
         "deleting-a-person-delete": "Deleting a person : delete",
         "clearing-all-entries-clear": "Clearing all entries : clear",
         "exiting-the-program-exit": "Exiting the program : exit",
@@ -131,6 +133,13 @@
       "title": "",
       "headings": {
         "universe": "UniVerse"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/chenle.md",
+      "headings": {
+        "project-universe": "Project: UniVerse"
       },
       "headingKeywords": {}
     },
